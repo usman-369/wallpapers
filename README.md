@@ -1,13 +1,13 @@
 <div align="center">
 
-```
+<pre>
 ██╗    ██╗ █████╗ ██╗     ██╗     ██████╗  █████╗ ██████╗ ███████╗██████╗ ███████╗
 ██║    ██║██╔══██╗██║     ██║     ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝
 ██║ █╗ ██║███████║██║     ██║     ██████╔╝███████║██████╔╝█████╗  ██████╔╝███████╗
 ██║███╗██║██╔══██║██║     ██║     ██╔═══╝ ██╔══██║██╔═══╝ ██╔══╝  ██╔══██╗╚════██║
 ╚███╔███╔╝██║  ██║███████╗███████╗██║     ██║  ██║██║     ███████╗██║  ██║███████║
  ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝
-```
+</pre>
 
 ### *A curated collection of static & animated wallpapers* ✦
 
@@ -48,7 +48,7 @@ Whether you're ricing your Linux setup, refreshing your Windows desktop, or just
 
 ## 📁 Repository Structure
 
-```
+```text
 wallpapers/
 ├── animated/
 │   ├── abstract/
@@ -165,7 +165,7 @@ If you enjoy this collection, consider leaving a **star** — it helps others di
 
 ## 📜 License
 
-All wallpapers are for **personal use**. If you are the original creator of any image and would like credit or removal, please [open an issue](https://github.com/usman-369/wallpapers/issues) and I'll take care of it promptly.
+**MIT** License. All wallpapers are for **personal** use. If you are the original creator of any image and would like credit or removal, please [open an issue](https://github.com/usman-369/wallpapers/issues) and I'll take care of it promptly.
 
 ---
 
