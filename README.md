@@ -28,30 +28,45 @@ Whether you're ricing your Linux setup, refreshing your Windows desktop, or just
 
 ---
 
+## 🖥️ Preview
+
+### 🖼️ Static Wallpaper
+
+![preview](./preview/preview-static.png)
+
+### 🎞️ Animated Wallpaper
+
+![preview](./preview/preview-animated.gif)
+
+<!-- | 🖼️ Static | 🎞️ Animated |
+|--------|----------|
+| ![preview](./preview/preview-static.png) | ![preview](./preview/preview-animated.gif) | -->
+
+> 🎬 How to Apply Animated Wallpaper on Linux (My Tutorial): [Watch here](./preview/my-animated-wallpaper-setup-linux.mp4)
+
+---
+
 ## 📁 Repository Structure
 
 ```
 wallpapers/
-├── 📂 animated/
-│   ├── abstract/
-│   ├── cars/
-│   ├── characters/
-│   └── scene/
-│
-└── 📂 static/
-    ├── favorites/
-    └── minecraft/
+├── animated/
+│   ├── abstract/
+│   ├── cars/
+│   ├── characters/
+│   └── scene/
+├── preview/
+│   ├── my-animated-wallpaper-setup-linux.mp4
+│   ├── preview-animated.gif
+│   └── preview-static.png
+├── static/
+│   ├── favorites/
+│   └── minecraft/
+├── LICENSE
+└── README.md
 ```
 
 <!-- > 📝 *Structure may vary — browse the repo to explore all categories.* -->
-
----
-
-## 🖥️ Preview
-
-| Static | Animated |
-|--------|----------|
-| ![preview]() | ![preview]() |
 
 ---
 
