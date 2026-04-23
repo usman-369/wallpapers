@@ -32,17 +32,24 @@ Whether you're ricing your Linux setup, refreshing your Windows desktop, or just
 
 ### 🖼️ Static Wallpaper
 
-![preview](./preview/preview-static.png)
+![preview](./assets/preview-static.png)
 
 ### 🎞️ Animated Wallpaper
 
-![preview](./preview/preview-animated.gif)
+![preview](./assets/preview-animated.gif)
 
 <!-- | 🖼️ Static | 🎞️ Animated |
 |--------|----------|
-| ![preview](./preview/preview-static.png) | ![preview](./preview/preview-animated.gif) | -->
+| ![preview](./assets/preview-static.png) | ![preview](./assets/preview-animated.gif) | -->
 
-> 🎬 How to Apply Animated Wallpaper on Linux (My Tutorial): [Watch here](./preview/my-animated-wallpaper-setup-linux.mp4)
+> 🎬 How to Apply Animated Wallpaper on Linux (My Tutorial): [Watch here](./assets/my-animated-wallpaper-setup-linux.mp4)
+
+### Commands used in this tutorial
+
+```bash
+xwininfo  
+mpv --loop --wid=[id] --no-osc --panscan=1 [video_path]
+```
 
 ---
 
@@ -55,7 +62,7 @@ wallpapers/
 │   ├── cars/
 │   ├── characters/
 │   └── scene/
-├── preview/
+├── assets/
 │   ├── my-animated-wallpaper-setup-linux.mp4
 │   ├── preview-animated.gif
 │   └── preview-static.png
