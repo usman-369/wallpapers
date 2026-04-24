@@ -38,19 +38,6 @@ Whether you're ricing your Linux setup, refreshing your Windows desktop, or just
 
 ![preview](./assets/preview-animated.gif)
 
-<!-- | 🖼️ Static | 🎞️ Animated |
-|--------|----------|
-| ![preview](./assets/preview-static.png) | ![preview](./assets/preview-animated.gif) | -->
-
-> 🎬 How to Apply Animated Wallpaper on Linux (My Tutorial): [Watch here](./assets/my-animated-wallpaper-setup-linux.mp4)
-
-### Commands used in this tutorial
-
-```bash
-xwininfo  
-mpv --loop --wid=[id] --no-osc --panscan=1 [video_path]
-```
-
 ---
 
 ## 📁 Repository Structure
@@ -63,7 +50,7 @@ wallpapers/
 │   ├── characters/
 │   └── scene/
 ├── assets/
-│   ├── my-animated-wallpaper-setup-linux.mp4
+│   ├── live_wallpaper.sh
 │   ├── preview-animated.gif
 │   └── preview-static.png
 ├── static/
@@ -72,8 +59,6 @@ wallpapers/
 ├── LICENSE
 └── README.md
 ```
-
-<!-- > 📝 *Structure may vary — browse the repo to explore all categories.* -->
 
 ---
 
@@ -141,6 +126,60 @@ mpvpaper -o "no-audio loop" '*' /path/to/wallpaper.mp4
 
 **Animated** — Use [HiDock](https://hidock.app/) or [Plash](https://github.com/sindresorhus/Plash) for video wallpapers.
 </details>
+
+---
+
+## 🎞️ Animated Wallpaper on Linux Mint (Cinnamon / Nemo)
+
+This repo includes `live_wallpaper.sh` — a script that uses `mpv` to play a video on the Nemo desktop window, turning it into a live wallpaper. It works by detecting the Nemo desktop window ID automatically using `xwininfo`, so no manual clicking required.
+
+**Dependencies:** `mpv` and `xwininfo` (part of `x11-utils`)
+
+```bash
+sudo apt install mpv x11-utils
+```
+
+### Usage
+
+**One-time, with default video** (set your path inside the script):
+
+```bash
+./live_wallpaper.sh
+```
+
+**One-time, with a custom video path:**
+
+```bash
+./live_wallpaper.sh ~/Videos/wallpapers/rain.mp4
+```
+
+**Help:**
+
+```bash
+./live_wallpaper.sh --help
+```
+
+### Run on startup
+
+To have your live wallpaper apply automatically on login, add the script to your startup applications:
+
+1. Open **Startup Applications** (search for it in the app menu)
+2. Click **Add**
+3. Set the command to the full path of the script, e.g.:
+
+   ```text
+   /home/username/Videos/wallpapers/live_wallpaper.sh
+   ```
+
+   Or with a specific video:
+
+   ```text
+   /home/username/Videos/wallpapers/live_wallpaper.sh /path/to/video.mp4
+   ```
+
+4. Give it a name like `Live Wallpaper` and save
+
+> **Note:** This script is written for **Linux Mint with Cinnamon** (Nemo desktop). It will not work on GNOME, KDE, or Wayland-based setups out of the box.
 
 ---
 
