@@ -26,6 +26,8 @@ A handpicked personal wallpaper collection — spanning **static images** and **
 
 Whether you're ricing your Linux setup, refreshing your Windows desktop, or just tired of the default macOS backgrounds, there's something here for every aesthetic (maybe).
 
+> 📐 *Static wallpapers are mostly high resolution. Minecraft screenshots are 1080p (original captures). Animated wallpapers are mostly 1080p. Some animated wallpapers come in multiple FPS versions (60fps, 30fps, and lower) so you can pick what suits your setup.*
+
 ---
 
 ## 🖥️ Preview
@@ -211,7 +213,12 @@ If you enjoy this collection, consider leaving a **star** — it helps others di
 
 ## 📜 License
 
-**MIT** License. All wallpapers are for **personal** use. If you are the original creator of any image and would like credit or removal, please [open an issue](https://github.com/usman-369/wallpapers/issues) and I'll take care of it promptly.
+**MIT** License. All wallpapers are for **personal** use.
+
+- 📸 Wallpapers in `static/minecraft/` are original screenshots taken by me
+- 🌐 All other wallpapers were collected from various sources across the internet
+
+If you are the original creator of any image or video and would like credit or removal, please [open an issue](https://github.com/usman-369/wallpapers/issues) and I'll take care of it promptly.
 
 ---
 
