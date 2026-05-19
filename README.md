@@ -216,7 +216,7 @@ If you enjoy this collection, consider leaving a **star** — it helps others di
 
 **MIT** License. All wallpapers are for **personal** use.
 
-- 📸 Wallpapers in `static/minecraft/` are original screenshots taken by me
+- 📸 Wallpapers in `static/minecraft/` and `static/colors/` are original assets made by me
 - 🌐 All other wallpapers were collected from various sources across the internet
 
 If you are the original creator of any image or video and would like credit or removal, please [open an issue](https://github.com/usman-369/wallpapers/issues) and I'll take care of it promptly.
