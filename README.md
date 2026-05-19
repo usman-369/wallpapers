@@ -22,7 +22,7 @@
 
 ## ✦ About
 
-A handpicked personal wallpaper collection — spanning **static images** and **animated/live wallpapers** — curated for those who care deeply about what's behind their windows.
+A handpicked personal wallpaper collection — spanning **static images**, **solid colors** and **animated/live wallpapers** — curated for those who care deeply about what's behind their windows.
 
 Whether you're ricing your Linux setup, refreshing your Windows desktop, or just tired of the default macOS backgrounds, there's something here for every aesthetic (maybe).
 
@@ -56,6 +56,7 @@ wallpapers/
 │   ├── preview-animated.gif
 │   └── preview-static.png
 ├── static/
+│   ├── colors/
 │   ├── favorites/
 │   └── minecraft/
 ├── LICENSE
