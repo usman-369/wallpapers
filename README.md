@@ -24,7 +24,7 @@
 
 A handpicked personal wallpaper collection — spanning **static images**, **solid colors** and **animated/live wallpapers** — curated for those who care deeply about what's behind their windows.
 
-Whether you're ricing your Linux setup, refreshing your Windows desktop, or just tired of the default macOS backgrounds, there's something here for every aesthetic (maybe).
+Whether you're ricing your Linux setup, refreshing your Windows desktop, or just tired of the default macOS backgrounds, there's something here for every aesthetic. (maybe)
 
 > 📐 *Static wallpapers are mostly high resolution. Minecraft screenshots are 1080p (original captures). Animated wallpapers are mostly 1080p. Some animated wallpapers come in multiple FPS versions (60fps, 30fps, and lower) so you can pick what suits your setup.*
 
@@ -50,15 +50,20 @@ wallpapers/
 │   ├── abstract/
 │   ├── cars/
 │   ├── characters/
-│   └── scene/
+│   ├── misc/
+│   └── scenery/
 ├── assets/
-│   ├── live_wallpaper.sh
 │   ├── preview-animated.gif
 │   └── preview-static.png
 ├── static/
+│   ├── abstract/
+│   ├── automotive/
+│   ├── characters/
 │   ├── colors/
-│   ├── favorites/
-│   └── minecraft/
+│   ├── minecraft/
+│   ├── misc/
+│   └── scenery/
+├── live_wallpaper.sh
 ├── LICENSE
 └── README.md
 ```
