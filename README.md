@@ -22,7 +22,7 @@
 
 ## ✦ About
 
-A handpicked personal wallpaper collection — spanning **static images**, **solid colors** and **animated/live wallpapers** — curated for those who care deeply about what's behind their windows.
+A handpicked personal wallpaper collection spanning **static images**, **solid colors**, and **animated/live wallpapers** curated for those who care deeply about what's behind their windows.
 
 Whether you're ricing your Linux setup, refreshing your Windows desktop, or just tired of the default macOS backgrounds, there's something here for every aesthetic. (maybe)
 
@@ -109,7 +109,7 @@ git sparse-checkout set animated
 gsettings set org.gnome.desktop.background picture-uri "file:///path/to/wallpaper.jpg"
 ```
 
-**KDE Plasma / Hyprland / Sway** — Use tools like [Waypaper](https://github.com/anufrievroman/waypaper), [swww](https://github.com/LGFae/swww), or `nitrogen` for static, and [mpvpaper](https://github.com/GhostNaN/mpvpaper) for animated wallpapers.
+**KDE Plasma / Hyprland / Sway** — Use tools like **Waypaper**, **swww**, or **nitrogen** for static, and **mpvpaper** for animated wallpapers.
 
 **Animated (using mpvpaper)**
 
@@ -124,7 +124,7 @@ mpvpaper -o "no-audio loop" '*' /path/to/wallpaper.mp4
 
 **Static** — Right-click the image → *Set as desktop background*
 
-**Animated** — Use [Lively Wallpaper](https://www.rocksdanister.com/lively/) or [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) (paid) with `.mp4` / `.webm` files.
+**Animated** — Use **Lively Wallpaper** or **Wallpaper Engine** (paid) with `.mp4` / `.webm` files.
 </details>
 
 <details>
@@ -132,14 +132,14 @@ mpvpaper -o "no-audio loop" '*' /path/to/wallpaper.mp4
 
 **Static** — Right-click image → *Use Image As Desktop Picture*
 
-**Animated** — Use [HiDock](https://hidock.app/) or [Plash](https://github.com/sindresorhus/Plash) for video wallpapers.
+**Animated** — Use **HiDock** or **Plash** for video wallpapers.
 </details>
 
 ---
 
 ## 🎞️ Animated Wallpaper on Linux Mint (Cinnamon / Nemo)
 
-This repo includes `live_wallpaper.sh` — a script that uses `mpv` to play a video on the Nemo desktop window, turning it into a live wallpaper. It works by detecting the Nemo desktop window ID automatically using `xwininfo`, so no manual clicking required.
+This repo includes `live_wallpaper.sh`, a script that uses `mpv` to play a video on the Nemo desktop window, turning it into a live wallpaper. It works by automatically detecting the Nemo desktop window ID using `xwininfo`, so no manual clicking is required.
 
 **Dependencies:** `mpv` and `xwininfo` (part of `x11-utils`)
 
@@ -207,7 +207,7 @@ To have your live wallpaper apply automatically on login, add the script to your
 
 ## ⭐ Show Some Love
 
-If you enjoy this collection, consider leaving a **star** — it helps others discover it and motivates adding more!
+If you enjoy this collection, consider leaving a **star**. It helps others discover it and motivates adding more!
 
 <div align="center">
 
