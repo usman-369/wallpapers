@@ -59,6 +59,7 @@ wallpapers/
 │   ├── abstract/
 │   ├── automotive/
 │   ├── characters/
+│   ├── coding/
 │   ├── colors/
 │   ├── minecraft/
 │   ├── misc/
