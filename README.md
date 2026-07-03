@@ -200,9 +200,9 @@ To have your live wallpaper apply automatically on login, add the script to your
 | `.png` | Static | Lossless quality, transparency |
 | `.mp4` | Animated | High-quality video wallpapers |
 | `.mkv` | Animated | High-quality video with flexible codec support |
-<!-- | `.webp` | Static | Modern browsers & apps | -->
-<!-- | `.gif` | Animated | Lightweight loops | -->
-<!-- | `.webm` | Animated | Linux-friendly video format | -->
+| `.webp` | Static | Modern browsers & apps |
+| `.gif` | Animated | Lightweight loops |
+| `.webm` | Animated | Linux-friendly video format |
 
 ---
 
