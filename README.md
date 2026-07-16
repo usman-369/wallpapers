@@ -220,12 +220,12 @@ If you enjoy this collection, consider leaving a **star**. It helps others disco
 
 ## 📜 License
 
-**MIT** License. All wallpapers are for **personal** use.
+Licensing varies depending on the asset.
 
-- 📸 Wallpapers in `static/minecraft/` and `static/colors/` are original assets made by me
-- 🌐 All other wallpapers were collected from various sources across the internet
+- 📸 Wallpapers in `static/minecraft/` and `static/colors/`, along with the Bash script in this repository, are all original assets made by me and are licensed under the MIT License.
+- 🌐 All other wallpapers were collected from various sources and remain the property of their respective creators. They may be subject to their own licenses.
 
-If you are the original creator of any image or video and would like credit or removal, please [open an issue](https://github.com/usman-369/wallpapers/issues) and I'll take care of it promptly.
+If you are the original creator of any image or video and would like attribution, correction, or removal, please [open an issue](https://github.com/usman-369/wallpapers/issues) and I'll address it promptly.
 
 ---
 
